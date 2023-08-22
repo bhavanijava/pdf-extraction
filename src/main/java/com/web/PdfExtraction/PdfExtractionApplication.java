@@ -20,11 +20,7 @@ public class PdfExtractionApplication {
 		
 		pdfUtil.setImageDestinationPath(folderLocation);
 		pdfUtil.extractImages(pdfLocation);
-<<<<<<< HEAD
 		//local change
-=======
-		//remote change
->>>>>>> cab062edf952e2023a62929e5ca241580e71fcb3
 	}
 
 }
