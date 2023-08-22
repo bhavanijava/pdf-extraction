@@ -20,7 +20,6 @@ public class PdfExtractionApplication {
 		
 		pdfUtil.setImageDestinationPath(folderLocation);
 		pdfUtil.extractImages(pdfLocation);
-//remote change
 	}
 
 }
