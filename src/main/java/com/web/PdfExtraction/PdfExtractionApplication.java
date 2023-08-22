@@ -22,6 +22,8 @@ public class PdfExtractionApplication {
 		pdfUtil.extractImages(pdfLocation);
 		//local change
 		//newbranch
+		//new change in newbranch
+		
 	}
 
 }
